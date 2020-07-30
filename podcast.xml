@@ -3,7 +3,8 @@
     <channel>
         <title>编程百物语</title>
         <link>https://codingmyths.github.io/</link>
-        <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate>
+        <!-- <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate> -->
+        <pubDate>Fri, 31 Jul 2020 00:06:28 -0000</pubDate>
         <description>揭开编程的神秘面纱，分享真实的编程体验</description>
         <language>zh-cn</language>
         <itunes:type>episodic</itunes:type>
@@ -20,10 +21,10 @@
         
         <item>
             <title>[000] 撒花～鼓掌～编程百物语的第0期节目</title>
-            <link>https://codingmyths.github.io/2020/07/30/000/</link>
-            <guid isPermaLink="false">codingmythspodcast_2020_07_30_000</guid>
+            <link>https://codingmyths.github.io/2020/07/31/000/</link>
+            <guid isPermaLink="false">codingmythspodcast_2020_07_31_000</guid>
             <!-- <pubDate>Tue, 14 Jul 2020 00:00:00 +0800</pubDate> -->
-            <pubDate>Thu, 30 Jul 2020 23:36:10 -0000</pubDate>
+            <pubDate>Fri, 31 Jul 2020 00:06:28 -0000</pubDate>
             <author>编程百物语</author>
             <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
             <enclosure url="https://codingmyths.jwang0614.top/audio/%23000-Introduction.mp3" length="29646765" type="audio/mpeg" />
@@ -35,7 +36,6 @@
             <itunes:explicit>no</itunes:explicit>
             <itunes:image href="https://codingmyths.jwang0614.top/img/cover.png" />
             <description>
-
 
 主播：
 
@@ -75,8 +75,7 @@ Spotify
 AntennaPod
 网易云音乐
 荔枝FM
-喜马拉雅
-</description>
+喜马拉雅</description>
             <content:encoded>&lt;![CDATA[&lt;h2&gt;主播：&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Olivia&lt;/li&gt;
