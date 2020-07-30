@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>编程百物语</title>
+        <link>https://codingmyths.github.io/</link>
+        <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate>
+        <description>揭开编程的神秘面纱，分享真实的编程体验</description>
+        <language>zh-cn</language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle>你编程中的酸甜苦辣，我们都想听</itunes:subtitle>
+        <itunes:author>编程百物语</itunes:author>
+        <itunes:summary>也许你是初学者，有困惑疑问；也许你早已入门，想聊聊曾经的心路历程，都欢迎与我们分享。你编程过程中的酸甜苦辣，我们都想听。</itunes:summary>
+        <itunes:image href="https://codingmyths.jwang0614.top/img/cover.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>编程百物语</itunes:name>
+            <itunes:email>codingmyths@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology" />
+        
+        <item>
+            <title>[000] 撒花～鼓掌～编程百物语的第0期节目</title>
+            <link>https://codingmyths.github.io/2020/07/30/000/</link>
+            <guid isPermaLink="false">codingmythspodcast_2020_07_30_000</guid>
+            <!-- <pubDate>Tue, 14 Jul 2020 00:00:00 +0800</pubDate> -->
+            <pubDate>Thu, 30 Jul 2020 23:36:10 -0000</pubDate>
+            <author>编程百物语</author>
+            <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
+            <enclosure url="https://codingmyths.jwang0614.top/audio/%23000-Introduction.mp3" length="29646765" type="audio/mpeg" />
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>编程百物语</itunes:author>
+            <itunes:subtitle>「编程百物语」播客的第0期节目，主播Olivia和应冬冬聊聊自己的编程背景和入门故事。</itunes:subtitle>
+            <!-- HH:MM:SS -->
+            <itunes:duration>30:46</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://codingmyths.jwang0614.top/img/cover.png" />
+            <description>
+
+
+主播：
+
+Olivia
+应冬冬
+
+
+
+简介：
+「编程百物语」播客的第0期节目～
+为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。
+介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。
+
+
+相关链接
+Processing 编程语言的官网 https://processing.org/
+Processing 作品展示 https://www.openprocessing.org/browse/
+微信小程序3小时从0到上线 https://www.bilibili.com/video/BV1D7411x7kc/
+Pandas https://pandas.pydata.org/ 
+
+
+联系方式
+网站: https://codingmyths.github.io/
+邮箱: codingmyths@gmail.com
+微博: 编程百物语
+Twitter: @codingmyths
+
+
+收听方式
+RSS: https://codingmyths.github.io/podcast.xml
+Apple Podcast
+Castro
+Pocket Casts
+Overcast
+Google Podcast
+Spotify
+AntennaPod
+网易云音乐
+荔枝FM
+喜马拉雅
+</description>
+            <content:encoded>&lt;![CDATA[&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Olivia&lt;/li&gt;
+&lt;li&gt;应冬冬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;「编程百物语」播客的第0期节目～&lt;/p&gt;
+&lt;p&gt;为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。&lt;/p&gt;
+&lt;p&gt;介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://processing.org/&quot;&gt;Processing 编程语言的官网 https://processing.org/&lt;/a&gt;
+&lt;a href=&quot;https://www.openprocessing.org/browse/&quot;&gt;Processing 作品展示 https://www.openprocessing.org/browse/&lt;/a&gt;
+&lt;a href=&quot;https://www.bilibili.com/video/BV1D7411x7kc/&quot;&gt;微信小程序3小时从0到上线 https://www.bilibili.com/video/BV1D7411x7kc/&lt;/a&gt;
+&lt;a href=&quot;https://pandas.pydata.org/&quot;&gt;Pandas https://pandas.pydata.org/&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast&lt;/p&gt;
+&lt;p&gt;Castro&lt;/p&gt;
+&lt;p&gt;Pocket Casts&lt;/p&gt;
+&lt;p&gt;Overcast&lt;/p&gt;
+&lt;p&gt;Google Podcast&lt;/p&gt;
+&lt;p&gt;Spotify&lt;/p&gt;
+&lt;p&gt;AntennaPod&lt;/p&gt;
+&lt;p&gt;网易云音乐&lt;/p&gt;
+&lt;p&gt;荔枝FM&lt;/p&gt;
+&lt;p&gt;喜马拉雅&lt;/p&gt;]]&gt;</content:encoded>
+            <itunes:summary>&lt;![CDATA[&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Olivia&lt;/li&gt;
+&lt;li&gt;应冬冬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;「编程百物语」播客的第0期节目～&lt;/p&gt;
+&lt;p&gt;为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。&lt;/p&gt;
+&lt;p&gt;介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://processing.org/&quot;&gt;Processing 编程语言的官网 https://processing.org/&lt;/a&gt;
+&lt;a href=&quot;https://www.openprocessing.org/browse/&quot;&gt;Processing 作品展示 https://www.openprocessing.org/browse/&lt;/a&gt;
+&lt;a href=&quot;https://www.bilibili.com/video/BV1D7411x7kc/&quot;&gt;微信小程序3小时从0到上线 https://www.bilibili.com/video/BV1D7411x7kc/&lt;/a&gt;
+&lt;a href=&quot;https://pandas.pydata.org/&quot;&gt;Pandas https://pandas.pydata.org/&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast&lt;/p&gt;
+&lt;p&gt;Castro&lt;/p&gt;
+&lt;p&gt;Pocket Casts&lt;/p&gt;
+&lt;p&gt;Overcast&lt;/p&gt;
+&lt;p&gt;Google Podcast&lt;/p&gt;
+&lt;p&gt;Spotify&lt;/p&gt;
+&lt;p&gt;AntennaPod&lt;/p&gt;
+&lt;p&gt;网易云音乐&lt;/p&gt;
+&lt;p&gt;荔枝FM&lt;/p&gt;
+&lt;p&gt;喜马拉雅&lt;/p&gt;]]&gt;</itunes:summary>
+            <itunes:keywords>编程 入门 闲聊 编程百物语 新手 编程百物语</itunes:keywords>
+
+
+        </item>
+        
+    </channel>
+</rss>
