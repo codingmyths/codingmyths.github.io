@@ -4,7 +4,7 @@
         <title>编程百物语</title>
         <link>https://codingmyths.github.io/</link>
         <!-- <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate> -->
-        <pubDate>Fri, 31 Jul 2020 00:06:28 -0000</pubDate>
+        <pubDate>Fri, 31 Jul 2020 14:42:33 -0000</pubDate>
         <description>揭开编程的神秘面纱，分享真实的编程体验</description>
         <language>zh-cn</language>
         <itunes:type>episodic</itunes:type>
@@ -24,7 +24,7 @@
             <link>https://codingmyths.github.io/2020/07/31/000/</link>
             <guid isPermaLink="false">codingmythspodcast_2020_07_31_000</guid>
             <!-- <pubDate>Tue, 14 Jul 2020 00:00:00 +0800</pubDate> -->
-            <pubDate>Fri, 31 Jul 2020 00:06:28 -0000</pubDate>
+            <pubDate>Fri, 31 Jul 2020 14:42:33 -0000</pubDate>
             <author>编程百物语</author>
             <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
             <enclosure url="https://codingmyths.jwang0614.top/audio/%23000-Introduction.mp3" length="29646765" type="audio/mpeg" />
@@ -48,6 +48,15 @@ Olivia
 「编程百物语」播客的第0期节目～
 为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。
 介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。
+
+
+时间戳
+01:14 节目简介
+04:49 主播Olivia和应冬冬的自我介绍
+06:28 项目型知识型，两种学习路线
+12:35 Olivia的第一个程序
+20:01 应冬冬的第一个程序
+28:14 关于“笨办法”的一些闲聊
 
 
 相关链接
@@ -76,7 +85,8 @@ AntennaPod
 网易云音乐
 荔枝FM
 喜马拉雅</description>
-            <content:encoded>&lt;![CDATA[&lt;h2&gt;主播：&lt;/h2&gt;
+            <content:encoded>&lt;![CDATA[
+&lt;h2&gt;主播：&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Olivia&lt;/li&gt;
 &lt;li&gt;应冬冬&lt;/li&gt;
@@ -85,6 +95,13 @@ AntennaPod
 &lt;p&gt;「编程百物语」播客的第0期节目～&lt;/p&gt;
 &lt;p&gt;为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。&lt;/p&gt;
 &lt;p&gt;介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;01:14 节目简介&lt;/p&gt;
+&lt;p&gt;04:49 主播Olivia和应冬冬的自我介绍&lt;/p&gt;
+&lt;p&gt;06:28 项目型知识型，两种学习路线&lt;/p&gt;
+&lt;p&gt;12:35 Olivia的第一个程序&lt;/p&gt;
+&lt;p&gt;20:01 应冬冬的第一个程序&lt;/p&gt;
+&lt;p&gt;28:14 关于“笨办法”的一些闲聊&lt;/p&gt;
 &lt;h2&gt;相关链接&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://processing.org/&quot;&gt;Processing 编程语言的官网 https://processing.org/&lt;/a&gt;
 &lt;a href=&quot;https://www.openprocessing.org/browse/&quot;&gt;Processing 作品展示 https://www.openprocessing.org/browse/&lt;/a&gt;
@@ -106,8 +123,10 @@ AntennaPod
 &lt;p&gt;AntennaPod&lt;/p&gt;
 &lt;p&gt;网易云音乐&lt;/p&gt;
 &lt;p&gt;荔枝FM&lt;/p&gt;
-&lt;p&gt;喜马拉雅&lt;/p&gt;]]&gt;</content:encoded>
-            <itunes:summary>&lt;![CDATA[&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;p&gt;喜马拉雅&lt;/p&gt;
+]]&gt;</content:encoded>
+            <itunes:summary>&lt;![CDATA[
+&lt;h2&gt;主播：&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Olivia&lt;/li&gt;
 &lt;li&gt;应冬冬&lt;/li&gt;
@@ -116,6 +135,13 @@ AntennaPod
 &lt;p&gt;「编程百物语」播客的第0期节目～&lt;/p&gt;
 &lt;p&gt;为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。&lt;/p&gt;
 &lt;p&gt;介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;01:14 节目简介&lt;/p&gt;
+&lt;p&gt;04:49 主播Olivia和应冬冬的自我介绍&lt;/p&gt;
+&lt;p&gt;06:28 项目型知识型，两种学习路线&lt;/p&gt;
+&lt;p&gt;12:35 Olivia的第一个程序&lt;/p&gt;
+&lt;p&gt;20:01 应冬冬的第一个程序&lt;/p&gt;
+&lt;p&gt;28:14 关于“笨办法”的一些闲聊&lt;/p&gt;
 &lt;h2&gt;相关链接&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://processing.org/&quot;&gt;Processing 编程语言的官网 https://processing.org/&lt;/a&gt;
 &lt;a href=&quot;https://www.openprocessing.org/browse/&quot;&gt;Processing 作品展示 https://www.openprocessing.org/browse/&lt;/a&gt;
@@ -137,7 +163,8 @@ AntennaPod
 &lt;p&gt;AntennaPod&lt;/p&gt;
 &lt;p&gt;网易云音乐&lt;/p&gt;
 &lt;p&gt;荔枝FM&lt;/p&gt;
-&lt;p&gt;喜马拉雅&lt;/p&gt;]]&gt;</itunes:summary>
+&lt;p&gt;喜马拉雅&lt;/p&gt;
+]]&gt;</itunes:summary>
             <itunes:keywords>编程 入门 闲聊 编程百物语 新手 编程百物语</itunes:keywords>
 
 
