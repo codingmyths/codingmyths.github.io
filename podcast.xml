@@ -11,7 +11,7 @@
         <itunes:subtitle>揭开编程的神秘面纱，分享真实的编程体验。你编程中的酸甜苦辣，我们都想听。</itunes:subtitle>
         <itunes:author>编程百物语</itunes:author>
         <itunes:summary>揭开编程的神秘面纱，分享真实的编程体验。Olivia和应冬冬一起聊聊编程初学者可能关心的问题。有人不适合编程吗？什么是最好的编程语言？应该用什么操作系统？什么IDE写起来最顺手？上网课还是自己找资料？也许你是初学者，有困惑疑问；也许你早已入门，想聊聊曾经的心路历程，都欢迎与我们分享。你编程过程中的酸甜苦辣，我们都想听。</itunes:summary>
-        <itunes:image href="https://codingmyths.jwang0614.top/img/cover.png" />
+        <itunes:image href="https://codingmyths.jwang0614.top/img/cover_large.png" />
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>编程百物语</itunes:name>
@@ -27,14 +27,14 @@
             <pubDate>Sat, 01 Aug 2020 00:08:33 -0000</pubDate>
             <author>编程百物语</author>
             <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
-            <enclosure url="https://codingmyths.jwang0614.top/audio/000-Introduction.mp3" length="31190128" type="audio/mpeg" />
+            <enclosure url="http://codingmyths.jwang0614.top/audio/000-Introduction.mp3" length="31190128" type="audio/mpeg" />
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:author>编程百物语</itunes:author>
             <itunes:subtitle>「编程百物语」播客的第0期节目，主播Olivia和应冬冬聊聊自己的编程背景和入门故事。</itunes:subtitle>
             <!-- HH:MM:SS -->
             <itunes:duration>32:22</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://codingmyths.jwang0614.top/img/cover.png" />
+            <itunes:image href="http://codingmyths.jwang0614.top/img/cover.png" />
             <description>
 
 主播：
