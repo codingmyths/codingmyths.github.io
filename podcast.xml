@@ -4,7 +4,7 @@
         <title>编程百物语</title>
         <link>https://codingmyths.github.io/</link>
         <!-- <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate> -->
-        <pubDate>Mon, 24 Aug 2020 11:06:50 -0000</pubDate>
+        <pubDate>Mon, 14 Sep 2020 16:20:36 -0000</pubDate>
         <description>揭开编程的神秘面纱，分享真实的编程体验。Olivia和应冬冬一起聊聊编程初学者可能关心的问题。有人不适合编程吗？什么是最好的编程语言？应该用什么操作系统？什么IDE写起来最顺手？上网课还是自己找资料？也许你是初学者，有困惑疑问；也许你早已入门，想聊聊曾经的心路历程，都欢迎与我们分享。你编程过程中的酸甜苦辣，我们都想听。</description>
         <language>zh-cn</language>
         <itunes:type>episodic</itunes:type>
@@ -18,6 +18,198 @@
             <itunes:email>codingmyths@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Technology" />
+        
+        <item>
+            <title>[002] 文科生女生可以成为穿格子衬衫没有头发的木讷程序员吗</title>
+            <link>https://codingmyths.github.io/2020/09/14/002/</link>
+            <guid isPermaLink="false">codingmythspodcast_2020_09_14_16_20_36_002</guid>
+            <!-- <pubDate>Tue, 14 Jul 2020 00:00:00 +0800</pubDate> -->
+            <pubDate>Mon, 14 Sep 2020 16:20:36 -0000</pubDate>
+            <author>编程百物语</author>
+            <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
+            <enclosure url="http://codingmyths.jwang0614.top/audio/002-who-fits.mp3" length="31658549" type="audio/mpeg" />
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>编程百物语</itunes:author>
+            <itunes:subtitle>看知乎上的问题觉得对于不少新手来说“文科生”，“女生”这样的身份标签对编程的学习有不小的影响。真的是这样吗？改变这些观点也许我们应该从创造更“普通人”的程序员形象做起。</itunes:subtitle>
+            <!-- HH:MM:SS -->
+            <itunes:duration>32:22</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="http://codingmyths.jwang0614.top/img/cover.png" />
+            <description>
+
+主播：
+
+
+Olivia
+
+
+应冬冬
+
+
+
+
+简介：
+看知乎上的问题觉得对于不少新手来说“文科生”，“女生”这样的身份标签对编程的学习有不小的影响。真的是这样吗？
+改变这些观点也许我们应该从创造更“普通人”的程序员形象做起。
+
+
+时间戳
+00:02 先说我们总体态度
+00:04 文科生可以学好编程吗
+00:11 女生可以学好编程吗
+00:18 程序员的刻板印象
+00:22 说回女生编程
+
+
+相关链接
+Ada Lovelace https://en.wikipedia.org/wiki/Ada_Lovelace
+阿达·洛芙莱斯 https://baike.baidu.com/item/%E9%98%BF%E8%BE%BE%C2%B7%E6%B4%9B%E8%8A%99%E8%8E%B1%E6%96%AF/12010940
+Hidden Figures https://en.wikipedia.org/wiki/Hidden_Figures
+隐藏人物 https://baike.baidu.com/item/%E9%9A%90%E8%97%8F%E4%BA%BA%E7%89%A9
+Teach girls bravery, not perfection https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani
+硅谷 https://baike.baidu.com/item/%E7%A1%85%E8%B0%B7/13887941
+IT狂人 https://baike.baidu.com/item/it%E7%8B%82%E4%BA%BA
+微微一笑很倾城 https://baike.baidu.com/item/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E/935439
+
+
+联系方式
+网站: https://codingmyths.github.io/
+邮箱: codingmyths@gmail.com
+微博: 编程百物语
+Twitter: @codingmyths
+
+
+收听方式
+RSS: 
+https://codingmyths.github.io/podcast.xml
+Apple Podcast US: 
+https://podcasts.apple.com/us/podcast/id1526028680
+Apple Podcast CN: 
+https://podcasts.apple.com/us/podcast/id1526238249
+喜马拉雅: 
+http://m.ximalaya.com/album/40444082
+Google Podcast: 
+https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw
+Pocket Casts: 
+https://pca.st/bbunlsg5
+Overcast: 
+https://overcast.fm/itunes1526028680
+Castbox: 
+https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837
+Spotify: 
+https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww
+网易云音乐: 
+https://music.163.com/#/djradio?id=795031527</description>
+            <content:encoded>&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Olivia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应冬冬&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;看知乎上的问题觉得对于不少新手来说“文科生”，“女生”这样的身份标签对编程的学习有不小的影响。真的是这样吗？&lt;/p&gt;
+&lt;p&gt;改变这些观点也许我们应该从创造更“普通人”的程序员形象做起。&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;00:02 先说我们总体态度&lt;/p&gt;
+&lt;p&gt;00:04 文科生可以学好编程吗&lt;/p&gt;
+&lt;p&gt;00:11 女生可以学好编程吗&lt;/p&gt;
+&lt;p&gt;00:18 程序员的刻板印象&lt;/p&gt;
+&lt;p&gt;00:22 说回女生编程&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ada_Lovelace&quot;&gt;Ada Lovelace https://en.wikipedia.org/wiki/Ada_Lovelace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E9%98%BF%E8%BE%BE%C2%B7%E6%B4%9B%E8%8A%99%E8%8E%B1%E6%96%AF/12010940&quot;&gt;阿达·洛芙莱斯 https://baike.baidu.com/item/%E9%98%BF%E8%BE%BE%C2%B7%E6%B4%9B%E8%8A%99%E8%8E%B1%E6%96%AF/12010940&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hidden_Figures&quot;&gt;Hidden Figures https://en.wikipedia.org/wiki/Hidden_Figures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E9%9A%90%E8%97%8F%E4%BA%BA%E7%89%A9&quot;&gt;隐藏人物 https://baike.baidu.com/item/%E9%9A%90%E8%97%8F%E4%BA%BA%E7%89%A9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani&quot;&gt;Teach girls bravery, not perfection https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E7%A1%85%E8%B0%B7/13887941&quot;&gt;硅谷 https://baike.baidu.com/item/%E7%A1%85%E8%B0%B7/13887941&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/it%E7%8B%82%E4%BA%BA&quot;&gt;IT狂人 https://baike.baidu.com/item/it%E7%8B%82%E4%BA%BA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E/935439&quot;&gt;微微一笑很倾城 https://baike.baidu.com/item/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E/935439&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast US: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526028680&quot;&gt;https://podcasts.apple.com/us/podcast/id1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast CN: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526238249&quot;&gt;https://podcasts.apple.com/us/podcast/id1526238249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;喜马拉雅: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://m.ximalaya.com/album/40444082&quot;&gt;http://m.ximalaya.com/album/40444082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Podcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&quot;&gt;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pocket Casts: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pca.st/bbunlsg5&quot;&gt;https://pca.st/bbunlsg5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://overcast.fm/itunes1526028680&quot;&gt;https://overcast.fm/itunes1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castbox: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&quot;&gt;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spotify: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&quot;&gt;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.163.com/#/djradio?id=795031527&quot;&gt;https://music.163.com/#/djradio?id=795031527&lt;/a&gt;&lt;/p&gt;</content:encoded>
+            <itunes:summary>&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Olivia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应冬冬&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;看知乎上的问题觉得对于不少新手来说“文科生”，“女生”这样的身份标签对编程的学习有不小的影响。真的是这样吗？&lt;/p&gt;
+&lt;p&gt;改变这些观点也许我们应该从创造更“普通人”的程序员形象做起。&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;00:02 先说我们总体态度&lt;/p&gt;
+&lt;p&gt;00:04 文科生可以学好编程吗&lt;/p&gt;
+&lt;p&gt;00:11 女生可以学好编程吗&lt;/p&gt;
+&lt;p&gt;00:18 程序员的刻板印象&lt;/p&gt;
+&lt;p&gt;00:22 说回女生编程&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ada_Lovelace&quot;&gt;Ada Lovelace https://en.wikipedia.org/wiki/Ada_Lovelace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E9%98%BF%E8%BE%BE%C2%B7%E6%B4%9B%E8%8A%99%E8%8E%B1%E6%96%AF/12010940&quot;&gt;阿达·洛芙莱斯 https://baike.baidu.com/item/%E9%98%BF%E8%BE%BE%C2%B7%E6%B4%9B%E8%8A%99%E8%8E%B1%E6%96%AF/12010940&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hidden_Figures&quot;&gt;Hidden Figures https://en.wikipedia.org/wiki/Hidden_Figures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E9%9A%90%E8%97%8F%E4%BA%BA%E7%89%A9&quot;&gt;隐藏人物 https://baike.baidu.com/item/%E9%9A%90%E8%97%8F%E4%BA%BA%E7%89%A9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani&quot;&gt;Teach girls bravery, not perfection https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E7%A1%85%E8%B0%B7/13887941&quot;&gt;硅谷 https://baike.baidu.com/item/%E7%A1%85%E8%B0%B7/13887941&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/it%E7%8B%82%E4%BA%BA&quot;&gt;IT狂人 https://baike.baidu.com/item/it%E7%8B%82%E4%BA%BA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E/935439&quot;&gt;微微一笑很倾城 https://baike.baidu.com/item/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E/935439&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast US: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526028680&quot;&gt;https://podcasts.apple.com/us/podcast/id1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast CN: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526238249&quot;&gt;https://podcasts.apple.com/us/podcast/id1526238249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;喜马拉雅: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://m.ximalaya.com/album/40444082&quot;&gt;http://m.ximalaya.com/album/40444082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Podcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&quot;&gt;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pocket Casts: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pca.st/bbunlsg5&quot;&gt;https://pca.st/bbunlsg5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://overcast.fm/itunes1526028680&quot;&gt;https://overcast.fm/itunes1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castbox: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&quot;&gt;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spotify: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&quot;&gt;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.163.com/#/djradio?id=795031527&quot;&gt;https://music.163.com/#/djradio?id=795031527&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:keywords>编程 入门 闲聊 编程百物语 新手 编程百物语</itunes:keywords>
+
+
+        </item>
         
         <item>
             <title>[001] 和小郭聊聊天:python网课真香</title>
