@@ -4,7 +4,7 @@
         <title>编程百物语</title>
         <link>https://codingmyths.github.io/</link>
         <!-- <pubDate>Mon, 13 Jul 2020 16:45:06 -0000</pubDate> -->
-        <pubDate>Mon, 14 Sep 2020 16:33:33 -0000</pubDate>
+        <pubDate>Tue, 13 Oct 2020 15:18:48 -0000</pubDate>
         <description>揭开编程的神秘面纱，分享真实的编程体验。Olivia和应冬冬一起聊聊编程初学者可能关心的问题。有人不适合编程吗？什么是最好的编程语言？应该用什么操作系统？什么IDE写起来最顺手？上网课还是自己找资料？也许你是初学者，有困惑疑问；也许你早已入门，想聊聊曾经的心路历程，都欢迎与我们分享。你编程过程中的酸甜苦辣，我们都想听。</description>
         <language>zh-cn</language>
         <itunes:type>episodic</itunes:type>
@@ -18,6 +18,183 @@
             <itunes:email>codingmyths@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Technology" />
+        
+        <item>
+            <title>[003] 不想做大数据的运维不是好前端</title>
+            <link>https://codingmyths.github.io/2020/10/13/003/</link>
+            <guid isPermaLink="false">codingmythspodcast_2020_10_13_15_18_48_003</guid>
+            <!-- <pubDate>Tue, 14 Jul 2020 00:00:00 +0800</pubDate> -->
+            <pubDate>Tue, 13 Oct 2020 15:18:48 -0000</pubDate>
+            <author>编程百物语</author>
+            <!-- "url" is the location of the enclosure, "length" is the file length (in bytes), and "type" is the type of file it is, expressed as one of the standard MIME types. -->
+            <enclosure url="http://codingmyths.jwang0614.top/audio/003-what-can-you-do.mp3" length="25740408" type="audio/mpeg" />
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>编程百物语</itunes:author>
+            <itunes:subtitle>大家是为什么决定开始学编程呢？有的人可能是纯粹从兴趣出发，其他人也许是想着能在计算机互联网领域找到一份好工作。那么学了编程到底可以做什么？软件技术都有哪些职业方向可以选择？</itunes:subtitle>
+            <!-- HH:MM:SS -->
+            <itunes:duration>26:42</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="http://codingmyths.jwang0614.top/img/cover.png" />
+            <description>
+
+主播：
+
+
+Olivia
+
+
+应冬冬
+
+
+
+
+简介：
+大家是为什么决定开始学编程呢？有的人可能是纯粹从兴趣出发，其他人也许是想着能在计算机互联网领域找到一份好工作。那么学了编程到底可以做什么？软件技术都有哪些职业方向可以选择？
+
+
+时间戳
+00:01 网页相关
+00:05 桌面应用
+00:07 数据科学
+00:09 系统 运维
+00:10 黑客？安全？
+00:13 人工智能
+00:21 测试工程师
+
+
+相关链接
+Electron
+软件技术职业选择之道
+
+
+联系方式
+网站: https://codingmyths.github.io/
+邮箱: codingmyths@gmail.com
+微博: 编程百物语
+Twitter: @codingmyths
+
+
+收听方式
+RSS: 
+https://codingmyths.github.io/podcast.xml
+Apple Podcast US: 
+https://podcasts.apple.com/us/podcast/id1526028680
+Apple Podcast CN: 
+https://podcasts.apple.com/us/podcast/id1526238249
+喜马拉雅: 
+http://m.ximalaya.com/album/40444082
+Google Podcast: 
+https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw
+Pocket Casts: 
+https://pca.st/bbunlsg5
+Overcast: 
+https://overcast.fm/itunes1526028680
+Castbox: 
+https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837
+Spotify: 
+https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww
+网易云音乐: 
+https://music.163.com/#/djradio?id=795031527</description>
+            <content:encoded>&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Olivia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应冬冬&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;大家是为什么决定开始学编程呢？有的人可能是纯粹从兴趣出发，其他人也许是想着能在计算机互联网领域找到一份好工作。那么学了编程到底可以做什么？软件技术都有哪些职业方向可以选择？&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;00:01 网页相关
+00:05 桌面应用
+00:07 数据科学
+00:09 系统 运维
+00:10 黑客？安全？
+00:13 人工智能
+00:21 测试工程师&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.electronjs.org&quot;&gt;Electron&lt;/a&gt;
+&lt;a href=&quot;https://developer.aliyun.com/article/767008&quot;&gt;软件技术职业选择之道&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast US: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526028680&quot;&gt;https://podcasts.apple.com/us/podcast/id1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast CN: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526238249&quot;&gt;https://podcasts.apple.com/us/podcast/id1526238249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;喜马拉雅: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://m.ximalaya.com/album/40444082&quot;&gt;http://m.ximalaya.com/album/40444082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Podcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&quot;&gt;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pocket Casts: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pca.st/bbunlsg5&quot;&gt;https://pca.st/bbunlsg5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://overcast.fm/itunes1526028680&quot;&gt;https://overcast.fm/itunes1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castbox: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&quot;&gt;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spotify: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&quot;&gt;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.163.com/#/djradio?id=795031527&quot;&gt;https://music.163.com/#/djradio?id=795031527&lt;/a&gt;&lt;/p&gt;</content:encoded>
+            <itunes:summary>&lt;h2&gt;主播：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Olivia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应冬冬&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;简介：&lt;/h2&gt;
+&lt;p&gt;大家是为什么决定开始学编程呢？有的人可能是纯粹从兴趣出发，其他人也许是想着能在计算机互联网领域找到一份好工作。那么学了编程到底可以做什么？软件技术都有哪些职业方向可以选择？&lt;/p&gt;
+&lt;h2&gt;时间戳&lt;/h2&gt;
+&lt;p&gt;00:01 网页相关
+00:05 桌面应用
+00:07 数据科学
+00:09 系统 运维
+00:10 黑客？安全？
+00:13 人工智能
+00:21 测试工程师&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.electronjs.org&quot;&gt;Electron&lt;/a&gt;
+&lt;a href=&quot;https://developer.aliyun.com/article/767008&quot;&gt;软件技术职业选择之道&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;网站: &lt;a href=&quot;https://codingmyths.github.io/&quot;&gt;https://codingmyths.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱: &lt;a href=&quot;mailto:codingmyths@gmail.com&quot;&gt;codingmyths@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;微博: &lt;a href=&quot;https://weibo.com/7481540111/&quot;&gt;编程百物语&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/codingmyths&quot;&gt;@codingmyths&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;收听方式&lt;/h2&gt;
+&lt;p&gt;RSS: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codingmyths.github.io/podcast.xml&quot;&gt;https://codingmyths.github.io/podcast.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast US: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526028680&quot;&gt;https://podcasts.apple.com/us/podcast/id1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple Podcast CN: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/id1526238249&quot;&gt;https://podcasts.apple.com/us/podcast/id1526238249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;喜马拉雅: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://m.ximalaya.com/album/40444082&quot;&gt;http://m.ximalaya.com/album/40444082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Podcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&quot;&gt;https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RpbmdteXRocy5naXRodWIuaW8vcG9kY2FzdC54bWw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pocket Casts: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pca.st/bbunlsg5&quot;&gt;https://pca.st/bbunlsg5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overcast: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://overcast.fm/itunes1526028680&quot;&gt;https://overcast.fm/itunes1526028680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castbox: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&quot;&gt;https://castbox.fm/channel/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD-id3176837&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spotify: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&quot;&gt;https://open.spotify.com/show/6MVcSwOZ3q4SUars0yHxsn?si=5m_2XSlVSDKRE7024AUBww&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.163.com/#/djradio?id=795031527&quot;&gt;https://music.163.com/#/djradio?id=795031527&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:keywords>编程 入门 闲聊 编程百物语 新手 编程百物语</itunes:keywords>
+
+
+        </item>
         
         <item>
             <title>[002] 文科生女生可以成为穿格子衬衫没有头发的木讷程序员吗</title>
